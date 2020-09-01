@@ -1,0 +1,72 @@
+body
+    {
+      background-color:		#737373;
+}
+
+P{
+  /* Monospace */
+  font-family: Courier;
+}
+color:  #E6E6FA;
+background-color: #E6E6FA;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: 	#E6EFA;
+}
+{
+  color: 	#FFFFFF;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+}
+h1 {
+  color: rgb(0, 51, 153);
+  text-align: center; /* Centreer de inhoud*/
+  /* rand: 4 pixels dik, volle rand, kleur oranje*/
+  border: 4px solid blue;
+}
+h2 {
+  color: rgb(0, 51, 153);
+  text-align: center; /* Centreer de inhoud*/
+  /* rand: 4 pixels dik, volle rand, kleur oranje*/
+  border: 4px solid Orange;
+}
+#menu a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 15px;
+}
+
+p.geel {
+  color: yellow;
+}
+p.blauw {
+  color: blue;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: 		#4682B4 ;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: 	#FF4500;
+}
