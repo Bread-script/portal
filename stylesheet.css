@@ -70,7 +70,7 @@ li a {
 li a:hover {
   background-color: 	#FF4500;
 }
-p.portal a:hover {
+#portal a:hover {
     color: orange;
 }
 
@@ -79,7 +79,7 @@ a {
      color: blue;
 }
 
-p.bird a:hover {
+#bird a:hover {
     
     color: red;
     text-decoration: none;
