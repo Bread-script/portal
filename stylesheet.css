@@ -70,3 +70,18 @@ li a {
 li a:hover {
   background-color: 	#FF4500;
 }
+p.portal a:hover {
+    color: orange;
+}
+
+a {
+ text-decoration: none;
+     color: blue;
+}
+
+p.bird a:hover {
+    
+    color: red;
+    text-decoration: none;
+        color: blue;
+}
