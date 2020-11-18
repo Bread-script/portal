@@ -1,7 +1,6 @@
 body
     {
       background-color:		#737373;
-
 }
 
 P{
@@ -9,13 +8,13 @@ P{
   font-family: Courier;
 }
 color:  #E6E6FA;
-background-color:		#737373;
+background-color: #E6E6FA;
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color:		#737373;
+  background-color: 	#E6EFA;
 }
 {
   color: 	#FFFFFF;
@@ -70,22 +69,4 @@ li a {
 
 li a:hover {
   background-color: 	#FF4500;
-}
-#portal a:hover {
-    color: orange;
-}
-
-a {
- text-decoration: none;
-     color: blue;
-}
-
-#bird a:hover {
- color: red;   
-   
-}
-
-a {
- text-decoration: none;
-    color:blue;
 }
