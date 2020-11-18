@@ -1,6 +1,6 @@
 body
     {
-      here
+      background-color:		#737373;
       background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F150448443780805488%2F&psig=AOvVaw2SyzhWcGHhERiBQtUOmmWn&ust=1605772594742000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC3p5rPi-0CFQAAAAAdAAAAABAZ');
      background-repeat: no-repeat;
    background-attachment: fixed;
@@ -11,13 +11,13 @@ P{
   font-family: Courier;
 }
 color:  #E6E6FA;
-here 
+background-color:		#E6E6FA;
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  here
+  background-color:		#E6E6FA;
 }
 {
   color: 	#FFFFFF;
