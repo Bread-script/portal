@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>tf2</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    <ul id="menu">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="portal1.html">portal 1</a></li>
+    <li><a href="portal2.html">portal 2</a></li>
+    <li><a href="Half-Life.html">Half Life</a></li>
+    <li><a href="tf2.html">Team Fortress 2</a></li>
+</ul> <link rel="stylesheet" href="style/opmaak.css" type="text/css">
+  </head>
+  <body>
+
+    <h1>Team Fortress 2</h1>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvillains.fandom.com%2Fwiki%2FTeam_Fortress_2_Mercenaries&psig=AOvVaw0b6FVGELmnjVIKoxAoXq5J&ust=1615980376939000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiFsJfatO8CFQAAAAAdAAAAABAD" height="200">
+    <p>Team Fortress 2 (ook wel bekend als tf2) is een online multiplayer waar in je kan kiezen tussen 1 van de 9 karakters als wie je kan spelen.</p><br>
+    <p>Daarna word je geplaats in een van de twee teams Red of Blu(e) en dan kan het gevecht beginnen je hebt zoals net genoemd 9 karakters die je hier onder kan vinden:  </p><br>
+   
+   
+   
+   <p></p><br>
+  </body>
+
+
+
+</html>
