@@ -1,11 +1,12 @@
 body
     {
            
-        #background-color:		#737373;
+       background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fse7en.ws%2Fportal-2%2F%3Flang%3Den&psig=AOvVaw1fnQ3UeJqj2nzYgErCdC87&ust=1616055344918000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC-wb7xtu8CFQAAAAAdAAAAABAz");
+
+       #background-color:	#737373;
 
 } 
 }
-
 P{
   /* Monospace */
   font-family: Courier;
