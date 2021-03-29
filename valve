@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>Portal 1</title>
+    <link rel="stylesheet" href="stylesheet.css" type="text/css">
+    <ul id="menu">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="portal1.html">portal 1</a></li>
+    <li><a href="portal2.html">portal 2</a></li>
+    <li><a href="Half-Life.html">Half Life</a></li>
+      <li><a href="tf2.html">Team Fortress 2</a></li>
+      </ul> <link rel="stylesheet" href="style/opmaak.css" type="text/css">
+  </head>
+   <body>
+   <h1>Valve</h1>
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnl.m.wikipedia.org%2Fwiki%2FBestand%3AValve_logo.svg&psig=AOvVaw3mr5fqyZcdpBT-V1OhT-i9&ust=1617097934220000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDWuLOd1e8CFQAAAAAdAAAAABAI" height="200">
+</body>
+      
+      
+      
+      
+      
+      
+</html>
