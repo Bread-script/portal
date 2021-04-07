@@ -12,13 +12,13 @@ P{
   font-family: Courier;
 }
 color:  #E6E6FA;
-background-color: #E6E6FA;
+#background-color: #E6E6FA;
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: 	#E6EFA;
+  #background-color: 	#E6EFA;
 }
 {
   color: 	#FFFFFF;
@@ -56,7 +56,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: 		#4682B4 ;
+  #background-color: 		#4682B4 ;
 }
 
 li {
