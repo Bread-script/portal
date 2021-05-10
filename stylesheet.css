@@ -1,9 +1,8 @@
 body
     {
            
-       background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fse7en.ws%2Fportal-2%2F%3Flang%3Den&psig=AOvVaw1fnQ3UeJqj2nzYgErCdC87&ust=1616055344918000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC-wb7xtu8CFQAAAAAdAAAAABAz");
-
-       #background-color:	#737373;
+     
+       background-color:	#737373;
 
 } 
 }
@@ -12,13 +11,13 @@ P{
   font-family: Courier;
 }
 color:  #E6E6FA;
-#background-color: #E6E6FA;
+background-color: #E6E6FA;
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  #background-color: 	#E6EFA;
+  background-color: 	#E6EFA;
 }
 {
   color: 	#FFFFFF;
