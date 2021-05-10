@@ -62,7 +62,7 @@ li {
   float: left;
 }
 
-li a {
+a {
   display: block;
   color: white;
   text-align: center;
